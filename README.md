@@ -13,6 +13,6 @@ The Invoice Generator is a simple desktop application built with Python and Tkin
 - Save the generated invoice to a specified location on the computer.
 <img width="1401" alt="Python-App-Working" src="https://github.com/abby1712/Pro-forma-Generator-app/assets/72368959/febb0395-a3d8-46f1-918c-db399f5fbede">
 
-##Sample Output
+## Sample Output
 <img width="419" alt="Screenshot 2023-07-15 at 9 06 59 PM" src="https://github.com/abby1712/Pro-forma-Generator-app/assets/72368959/c25e984b-1c63-4f7e-8881-4dbf5f66397a">
 
