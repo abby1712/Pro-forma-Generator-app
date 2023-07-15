@@ -11,6 +11,7 @@ The Invoice Generator is a simple desktop application built with Python and Tkin
 - Edit and remove products from the list.
 - Generate an invoice in PDF format, including all the entered details and product information.
 - Save the generated invoice to a specified location on the computer.
+## Sample Input
 <img width="1401" alt="Python-App-Working" src="https://github.com/abby1712/Pro-forma-Generator-app/assets/72368959/febb0395-a3d8-46f1-918c-db399f5fbede">
 
 ## Sample Output
